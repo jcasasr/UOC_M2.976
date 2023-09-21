@@ -18,3 +18,7 @@ Recomanem els següents enllaços per poder instal·lar els components de progra
 - [Mòdul 3. Generació de grafs sintètics](./M3/)
 - [Mòdul 4. Detecció de comunitats](./M4/)
 - [Mòdul 5. Difusió i propagació de la informació](./M5/)
+- [Mòdul 6. Xarxes multicapa](./M6/)
+- [Mòdul 7. Hipergrafs i complexos simplicials](./M7/)
+- [Mòdul 8. Predicció d'enllaços](./M8/)
+- [Mòdul 9. GNN](./M9/)
